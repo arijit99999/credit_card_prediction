@@ -1,0 +1,9 @@
+96--INFO--2024-03-25 01:34:57,766--[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+96--INFO--2024-03-25 01:34:57,769--[33mPress CTRL+C to quit[0m
+96--INFO--2024-03-25 01:35:06,353--127.0.0.1 - - [25/Mar/2024 01:35:06] "GET / HTTP/1.1" 200 -
+75--INFO--2024-03-25 01:35:10,798--Dataframe Gathered
+96--INFO--2024-03-25 01:35:11,654--127.0.0.1 - - [25/Mar/2024 01:35:11] "POST /predict HTTP/1.1" 200 -
+96--INFO--2024-03-25 01:36:09,311--127.0.0.1 - - [25/Mar/2024 01:36:09] "GET / HTTP/1.1" 200 -
+75--INFO--2024-03-25 01:36:14,603--Dataframe Gathered
+96--INFO--2024-03-25 01:36:14,606--127.0.0.1 - - [25/Mar/2024 01:36:14] "POST /predict HTTP/1.1" 200 -
