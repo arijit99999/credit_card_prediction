@@ -25,7 +25,8 @@ list_of_files=[
     'setup.py',
     'template/form.html',
     'template/result.html',
-    'init_setup.sh'
+    'init_setup.sh',
+    'dockerfile'
 ]
 for i in list_of_files:
     filepath=Path(i)
